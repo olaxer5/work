@@ -1,0 +1,26 @@
+p{
+    font-size: 14pt;
+    font-family: "Monotype Corsiva"
+}
+#b {
+    font-weight: 700;
+}
+font {
+    font-weight: 700;
+}
+font.orange {
+    font-weight: 700;
+    font-family: "Arial";
+    color: orange;
+}
+font.blue {
+    font-family: Timec "Times New Roman";
+    color: blue;
+}
+.red {
+    color: purple;
+}
+.lime {
+    color: green;
+    font-weight: 900;
+}
